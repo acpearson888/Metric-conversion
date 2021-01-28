@@ -455,4 +455,3 @@ import decimal
 D = decimal.Decimal
 #core program
 metric_conversion()
-#test text
